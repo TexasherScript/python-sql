@@ -1,2 +1,5 @@
-# python-sql
-The project is designed to help users learn the fundamentals of web development using Python and SQL, focusing on building a responsive and interactive portfolio site. The final product will serve as a personal branding tool, showcasing their skills and achievements in a professional and polished manner.
+# Profile Exploratory Project
+###Project Description
+This project is designed to help users learn the fundamentals of data analytics by exploring a vast dataset using Python and SQL. The goal is to analyze profiles within the dataset, derive insights, and visualize key trends. This project will guide users through setting up the environment, importing the dataset, performing analysis, and creating visualizations.
+
+
