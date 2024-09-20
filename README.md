@@ -25,7 +25,7 @@ Table of Contents
 - Perform analysis in Python using the scripts provided.
 
 ## Documenting Findings
-- Use the markdown template to document your analysis.
+- Use the markdown template to document your analysis on github Pages.
 
 ___________________________________________________________________________________________________________________________________________________
 
